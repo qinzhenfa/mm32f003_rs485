@@ -1,0 +1,17 @@
+"--endian=little" 
+
+"--cpu=Cortex-M0" 
+
+"--fpu=None" 
+
+"-p" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\debugger\MindMotion\MM32F003TW.ddf" 
+
+"--semihosting" 
+
+"--device=MM32F003TW" 
+
+
+
+

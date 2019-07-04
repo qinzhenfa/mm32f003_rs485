@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>360133105</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_misc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_adc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_pwr.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_gpio.c</file>
+            <file>$PROJ_DIR$\..\USER\main.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_tim.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_exti.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_crc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_flash.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_i2c.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_iwdg.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_spi.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\Source\IAR_StartAsm\startup_MM32F003_q.s</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_uart.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_syscfg.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_spi.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_i2c.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\UART_NVIC.pbd</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_rcc.c</file>
+            <file>$PROJ_DIR$\Debug\Exe\UART_NVIC.hex</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\Source\system_MM32F003_q.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_uart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_wwdg.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_gpio.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_exti.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_dma.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_tim.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_pwr.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_tim.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_crc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_rcc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_i2c.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_dma.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_uart.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_flash.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_MM32F003_q.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_syscfg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_crc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_flash.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_MM32F003_q.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_misc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_iwdg.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_iwdg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_adc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_pwr.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_dma.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_wwdg.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_spi.pbi</file>
+            <file>$PROJ_DIR$\Debug\Exe\MM32.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_adc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_rcc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_misc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_exti.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_wwdg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_MM32F003_q.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_tim.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_pwr.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_iwdg.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_misc.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_dma.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_syscfg.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_spi.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_spi.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_wwdg.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_crc.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_rcc.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\CMSIS\IAR_CORE\core_cm0.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_i2c.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_uart.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_gpio.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+            <file>$TOOLKIT_DIR$\config\linker\MindMotion\MM32F003TW.icf</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_iwdg.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_misc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_flash.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_i2c.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\List\MM32.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_exti.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_adc.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\Include\MM32F003_q.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_syscfg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\CMSIS\IAR_CORE\core_cmInstr.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_flash.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_rcc.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\Include\HAL_device.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_dma.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\Include\system_MM32F003_q.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_conf.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_gpio.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_gpio.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_crc.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\CMSIS\IAR_CORE\core_cmFunc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_exti.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl6M_tlf.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\HAL_syscfg.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_tim.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_adc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_MM32F003_q.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_uart.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_pwr.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\inc\HAL_wwdg.h</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 51 82</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_misc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 42</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 78 96 87 71 93 48 95 90 85 104 91 109 86 105 98</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 96 87 93 48 71 105 109 78 98 91 95 90 104 86</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_adc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 112 96 87 71 93 48 95 90 85 104 91 109 86 105 98 94</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 48 96 87 93 91 94 98 71 105 109 95 112 90 104 86</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_pwr.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 46</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 116 96 87 71 93 48 95 90 85 104 91 109 86 105 98 94</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95 105 109 98 71 93 48 94 96 87 91 90 104 86 116</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 102</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 23</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 100 96 87 71 93 48 95 90 85 104 91 109 86 105 98 94</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 96 87 93 91 95 94 98 71 105 48 109 100 90 104 86</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\USER\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 36</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 96 87 71 93 48 95 90 85 104 91 109 86 105 98 88 110 101 115 99 112 103 97 106 92 100 72 60 116 94 66 111 114 117 78 89</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 86 87 92 94 115 114 96 101 93 105 109 110 48 112 116 88 99 98 71 90 104 97 72 66 78 91 95 103 106 100 60 111 117 89</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_tim.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 28</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 111 96 87 71 93 48 95 90 85 104 91 109 86 105 98 94</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 93 48 87 94 96 98 71 105 109 95 111 91 90 104 86</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_crc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 39</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 30</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 68</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103 96 87 71 93 48 95 90 85 104 91 109 86 105 98</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 96 87 93 48 71 105 109 103 98 91 95 90 104 86</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 40</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 79</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 92 96 87 71 93 48 95 90 85 104 91 109 86 105 98</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95 105 98 71 93 48 109 96 87 91 92 90 104 86</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72 96 87 71 93 48 95 90 85 104 91 109 86 105 98 94</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71 98 48 96 93 105 94 87 91 109 95 72 90 104 86</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_iwdg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 44</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 43</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 60 96 87 71 93 48 95 90 85 104 91 109 86 105 98</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 96 87 93 48 71 105 109 60 98 91 95 90 104 86</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 15</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 50</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 65</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 66 96 87 71 93 48 95 90 85 104 91 109 86 105 98 94</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 87 93 91 95 94 96 98 71 105 48 109 66 90 104 86</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\Source\IAR_StartAsm\startup_MM32F003_q.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 37</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_syscfg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 108</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 64</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 89 96 87 71 93 48 95 90 85 104 91 109 86 105 98</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95 93 86 96 91 87 90 104 98 71 105 48 109 89</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_rcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 53</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 94 96 87 71 93 48 95 90 85 104 91 109 86 105 98</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95 105 96 98 71 93 48 109 87 91 90 94 104 86</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\Source\system_MM32F003_q.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 41</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 113</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 96 87 71 93 48 95 90 85 104 91 109 86 105 98</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 87 93 48 71 105 109 96 98 91 95 90 104 86</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 34</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 73</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 114 96 87 71 93 48 95 90 85 104 91 109 86 105 98 94</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 96 105 86 98 71 93 48 109 94 87 91 95 90 104 114</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_wwdg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 56</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 49</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 96 87 71 93 48 95 90 85 104 91 109 86 105 98 94</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 93 98 71 48 105 109 95 94 96 87 91 90 104 86 117</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_exti.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 55</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 6</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 106 96 87 71 93 48 95 90 85 104 91 109 86 105 98</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 90 95 87 104 93 91 109 96 98 71 105 48 106 86</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\Device\MM32F003_q\HAL_lib\src\HAL_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 47</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 63</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 97 96 87 71 93 48 95 90 85 104 91 109 86 105 98</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 86 96 87 71 91 95 90 98 93 104 109 97 105 48</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\MM32.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 82</file>
+                </tool>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 19</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 76 52 39 47 55 40 102 32 44 54 27 53 15 38 26 34 56 29 37 41 80 62 75 107</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>

@@ -1,0 +1,330 @@
+###############################################################################
+#
+# IAR ELF Linker V8.10.1.12857/W32 for ARM                20/Jun/2019  09:00:26
+# Copyright 2007-2017 IAR Systems AB.
+#
+#    Output file  =  
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Exe\MM32.out
+#    Map file     =  
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\List\MM32.map
+#    Command line =  
+#        -f C:\Users\openvox\AppData\Local\Temp\EWEDA8.tmp
+#        (C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_adc.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_crc.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_dma.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_exti.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_flash.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_gpio.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_i2c.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_iwdg.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_misc.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_pwr.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_rcc.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_spi.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_syscfg.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_tim.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_uart.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\HAL_wwdg.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\main.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\startup_MM32F003_q.o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj\system_MM32F003_q.o
+#        -o
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Exe\MM32.out
+#        --map
+#        C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\List\MM32.map
+#        --config "D:\Program Files (x86)\IAR Systems\Embedded Workbench
+#        8.0\arm\config\linker\MindMotion\MM32F003TW.icf" --semihosting --entry
+#        __iar_program_start --vfe --text_out locale)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because no calls to memory allocation
+functions were found in the application outside of system library
+functions, and there are calls to deallocation functions in the
+application.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at 0x08000000 { ro section .intvec };
+"P1":  place in [from 0x08000000 to 0x08003fff] { ro };
+"P2":  place in [from 0x20000000 to 0x200007ff] { rw, block CSTACK, block HEAP };
+initialize by copy { rw };
+
+  Section            Kind        Address   Size  Object
+  -------            ----        -------   ----  ------
+"A0":                                      0xb4
+  .intvec            ro code  0x08000000   0xb4  startup_MM32F003_q.o [1]
+                            - 0x080000b4   0xb4
+
+"P1":                                     0xd6a
+  .text              ro code  0x080000b4  0x414  main.o [1]
+  .text              ro code  0x080004c8   0xae  I32DivModFast.o [4]
+  .text              ro code  0x08000576    0xa  xsprout.o [3]
+  .text              ro code  0x08000580   0xdc  HAL_rcc.o [1]
+  .text              ro code  0x0800065c  0x128  HAL_dma.o [1]
+  .text              ro code  0x08000784   0xc8  HAL_uart.o [1]
+  .text              ro code  0x0800084c   0x40  sprintf.o [3]
+  .text              ro code  0x0800088c   0x50  ABImemset.o [4]
+  .text              ro code  0x080008dc  0x116  HAL_gpio.o [1]
+  .text              ro code  0x080009f2    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x080009f4    0x2  IntDivZer.o [4]
+  .text              ro code  0x080009f6  0x188  xprintftiny.o [3]
+  .text              ro code  0x08000b7e   0x10  strlen.o [4]
+  .text              ro code  0x08000b8e    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000b90   0xd4  system_MM32F003_q.o [1]
+  .text              ro code  0x08000c64   0x40  zero_init3.o [4]
+  .text              ro code  0x08000ca4   0x30  copy_init3.o [4]
+  .text              ro code  0x08000cd4   0x28  data_init.o [4]
+  .rodata            const    0x08000cfc   0x24  main.o [1]
+  Initializer bytes  const    0x08000d20   0x24  <for P2-1>
+  .iar.init_table    const    0x08000d44   0x24  - Linker created -
+  .text              ro code  0x08000d68   0x1a  cmain.o [4]
+  .text              ro code  0x08000d82    0x4  low_level_init.o [3]
+  .text              ro code  0x08000d86    0x8  exit.o [3]
+  .text              ro code  0x08000d8e    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000d90    0xa  cexit.o [4]
+  .text              ro code  0x08000d9a    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000d9c   0x14  exit.o [5]
+  .rodata            const    0x08000db0   0x10  main.o [1]
+  .rodata            const    0x08000dc0   0x10  main.o [1]
+  .text              ro code  0x08000dd0   0x10  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000de0    0xc  cstartup_M.o [4]
+  .text              ro code  0x08000dec    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000dee    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000df0    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000df2    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000df4    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000df6    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000df8    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000dfa    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000dfc    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000dfe    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e00    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e02    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e04    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e06    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e08    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e0a    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e0c    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e0e    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e10    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e12    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e14    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e16    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e18    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e1a    0x2  startup_MM32F003_q.o [1]
+  .text              ro code  0x08000e1c    0x2  startup_MM32F003_q.o [1]
+  .rodata            const    0x08000e1e    0x0  zero_init3.o [4]
+  .rodata            const    0x08000e1e    0x0  copy_init3.o [4]
+                            - 0x08000e1e  0xd6a
+
+"P2", part 1 of 3:                         0x24
+  P2-1                        0x20000000   0x24  <Init block>
+    .data            inited   0x20000000   0x10  HAL_rcc.o [1]
+    .data            inited   0x20000010   0x10  main.o [1]
+    .data            inited   0x20000020    0x4  system_MM32F003_q.o [1]
+                            - 0x20000024   0x24
+
+"P2", part 2 of 3:                        0x400
+  CSTACK                      0x20000028  0x400  <Block>
+    CSTACK           uninit   0x20000028  0x400  <Block tail>
+                            - 0x20000428  0x400
+
+"P2", part 3 of 3:                         0x88
+  .bss               zero     0x20000428   0x64  main.o [1]
+  .bss               zero     0x2000048c   0x10  main.o [1]
+  .bss               zero     0x2000049c    0xc  main.o [1]
+  .bss               zero     0x200004a8    0x4  main.o [1]
+  .bss               zero     0x200004ac    0x4  main.o [1]
+                            - 0x200004b0   0x88
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address     Size
+          -------     ----
+Zero (__iar_zero_init3)
+    1 destination range, total size 0x88:
+          0x20000428  0x88
+
+Copy (__iar_copy_init3)
+    1 source range, total size 0x24:
+          0x08000d20  0x24
+    1 destination range, total size 0x24:
+          0x20000000  0x24
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module                ro code  ro data  rw data
+    ------                -------  -------  -------
+C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj: [1]
+    HAL_dma.o                 296
+    HAL_gpio.o                278
+    HAL_rcc.o                 220       16       16
+    HAL_uart.o                200
+    main.o                  1 044       84      152
+    startup_MM32F003_q.o      254
+    system_MM32F003_q.o       212        4        4
+    -----------------------------------------------
+    Total:                  2 504      104      172
+
+command line: [2]
+    -----------------------------------------------
+    Total:
+
+dl6M_tlf.a: [3]
+    exit.o                      8
+    low_level_init.o            4
+    sprintf.o                  64
+    xprintftiny.o             392
+    xsprout.o                  10
+    -----------------------------------------------
+    Total:                    478
+
+rt6M_tl.a: [4]
+    ABImemset.o                80
+    I32DivModFast.o           174
+    IntDivZer.o                 2
+    cexit.o                    10
+    cmain.o                    26
+    copy_init3.o               48
+    cstartup_M.o               12
+    data_init.o                40
+    strlen.o                   16
+    zero_init3.o               64
+    -----------------------------------------------
+    Total:                    472
+
+shb_l.a: [5]
+    exit.o                     20
+    -----------------------------------------------
+    Total:                     20
+
+    Linker created                      36    1 024
+---------------------------------------------------
+    Grand Total:            3 474      140    1 196
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                      Address   Size  Type      Object
+-----                      -------   ----  ----      ------
+.iar.init_table$$Base   0x08000d44          --   Gb  - Linker created -
+.iar.init_table$$Limit  0x08000d68          --   Gb  - Linker created -
+?main                   0x08000d69         Code  Gb  cmain.o [4]
+APBAHBPrescTable        0x20000000   0x10  Data  Lc  HAL_rcc.o [1]
+CSTACK$$Base            0x20000028          --   Gb  - Linker created -
+CSTACK$$Limit           0x20000428          --   Gb  - Linker created -
+DMA_ClearFlag           0x0800076d    0x6  Code  Gb  HAL_dma.o [1]
+DMA_Cmd                 0x0800071d   0x1c  Code  Gb  HAL_dma.o [1]
+DMA_DeInit              0x0800065d   0x80  Code  Gb  HAL_dma.o [1]
+DMA_GetFlagStatus       0x08000751   0x1c  Code  Gb  HAL_dma.o [1]
+DMA_ITConfig            0x08000739   0x18  Code  Gb  HAL_dma.o [1]
+DMA_Init                0x080006dd   0x40  Code  Gb  HAL_dma.o [1]
+DMA_Set_MemoryAddress   0x08000269    0x4  Code  Gb  main.o [1]
+DMA_Set_MemoryInc_Enable
+                        0x0800026d   0x1c  Code  Gb  main.o [1]
+DMA_Set_TransmitLen     0x08000263    0x6  Code  Gb  main.o [1]
+DRV_DMA_TransmitPacket  0x08000289   0x36  Code  Gb  main.o [1]
+GPIO_Init               0x080008dd   0xc0  Code  Gb  HAL_gpio.o [1]
+GPIO_PinAFConfig        0x0800099d   0x56  Code  Gb  HAL_gpio.o [1]
+InitSystick             0x0800016d   0x1e  Code  Gb  main.o [1]
+NVIC_SetPriority        0x080000b5   0x88  Code  Lc  main.o [1]
+RCC_AHBPeriphClockCmd   0x080005ff   0x20  Code  Gb  HAL_rcc.o [1]
+RCC_APB1PeriphClockCmd  0x0800061f   0x20  Code  Gb  HAL_rcc.o [1]
+RCC_GetClocksFreq       0x08000581   0x7e  Code  Gb  HAL_rcc.o [1]
+Region$$Table$$Base     0x08000d44          --   Gb  - Linker created -
+Region$$Table$$Limit    0x08000d68          --   Gb  - Linker created -
+SetSysClock             0x08000bd1    0x8  Code  Lc  system_MM32F003_q.o [1]
+SetSysClockTo48_HSI     0x08000bd9   0x6a  Code  Lc  system_MM32F003_q.o [1]
+SysTick_Config          0x0800013d   0x30  Code  Lc  main.o [1]
+SysTick_Count           0x200004a8    0x4  Data  Gb  main.o [1]
+SysTick_Handler         0x0800018b   0x30  Code  Gb  main.o [1]
+SystemCoreClock         0x20000020    0x4  Data  Gb  system_MM32F003_q.o [1]
+SystemInit              0x08000b91   0x40  Code  Gb  system_MM32F003_q.o [1]
+UART2ReadbufTimeOut     0x080002f5   0x4e  Code  Gb  main.o [1]
+UART2_DMA_RX_Init       0x08000217   0x4c  Code  Gb  main.o [1]
+UART2_DMA_TX_Init       0x080001cb   0x4c  Code  Gb  main.o [1]
+UART2_WriteBuf          0x080002bf   0x36  Code  Gb  main.o [1]
+UART_Cmd                0x080007ef   0x1c  Code  Gb  HAL_uart.o [1]
+UART_DMACmd             0x08000831   0x1c  Code  Gb  HAL_uart.o [1]
+UART_ITConfig           0x08000815   0x1c  Code  Gb  HAL_uart.o [1]
+UART_Init               0x08000785   0x6a  Code  Gb  HAL_uart.o [1]
+UartSendAscii           0x080004b3   0x16  Code  Gb  main.o [1]
+UartSendByte            0x0800049d    0xc  Code  Gb  main.o [1]
+UartSendGroup           0x080004a9    0xa  Code  Gb  main.o [1]
+Uart_ConfigInit         0x080003c9   0x9e  Code  Gb  main.o [1]
+_PrintfTiny             0x08000a11  0x16e  Code  Gb  xprintftiny.o [3]
+_SProut                 0x08000577    0xa  Code  Gb  xsprout.o [3]
+__ICFEDIT_region_RAM_end__ {Abs}
+                        0x200007ff         Data  Gb  command line/config [2]
+__ICFEDIT_region_RAM_start__ {Abs}
+                        0x20000000         Data  Gb  command line/config [2]
+__aeabi_idiv0           0x080009f5         Code  Gb  IntDivZer.o [4]
+__aeabi_memset          0x0800088d         Code  Gb  ABImemset.o [4]
+__aeabi_uidiv           0x080004c9         Code  Gb  I32DivModFast.o [4]
+__aeabi_uidivmod        0x080004c9         Code  Gb  I32DivModFast.o [4]
+__cmain                 0x08000d69         Code  Gb  cmain.o [4]
+__exit                  0x08000d9d   0x14  Code  Gb  exit.o [5]
+__iar_Memset4_word      0x080008ad         Code  Gb  ABImemset.o [4]
+__iar_Memset_word       0x08000899         Code  Gb  ABImemset.o [4]
+__iar_copy_init3        0x08000ca5   0x30  Code  Gb  copy_init3.o [4]
+__iar_data_init3        0x08000cd5   0x28  Code  Gb  data_init.o [4]
+__iar_program_start     0x08000de1         Code  Gb  cstartup_M.o [4]
+__iar_systems$$module {Abs}
+                        0x00000001         Data  Gb  command line/config [2]
+__iar_zero_init3        0x08000c65   0x40  Code  Gb  zero_init3.o [4]
+__low_level_init        0x08000d83    0x4  Code  Gb  low_level_init.o [3]
+__vector_table          0x08000000         Data  Gb  startup_MM32F003_q.o [1]
+_call_main              0x08000d75         Code  Gb  cmain.o [4]
+_exit                   0x08000d91         Code  Gb  cexit.o [4]
+_main                   0x08000d7f         Code  Gb  cmain.o [4]
+delay                   0x080001bb   0x10  Code  Lc  main.o [1]
+exit                    0x08000d87    0x8  Code  Gb  exit.o [3]
+gDlycnt                 0x200004ac    0x4  Data  Gb  main.o [1]
+main                    0x08000349   0x68  Code  Gb  main.o [1]
+out                     0x080009f7   0x1a  Code  Lc  xprintftiny.o [3]
+printBuf                0x20000428   0x64  Data  Gb  main.o [1]
+rxbuf                   0x2000049c    0xc  Data  Gb  main.o [1]
+rxdata                  0x2000048c   0x10  Data  Lc  main.o [1]
+sprintf                 0x0800084d   0x40  Code  Gb  sprintf.o [3]
+strlen                  0x08000b7f   0x10  Code  Gb  strlen.o [4]
+txdata                  0x20000010   0x10  Data  Lc  main.o [1]
+
+
+[1] = C:\Users\openvox\Desktop\mytest\mydemo\MM32F003xx_q_Lib_Samples_V1.08_SC\Boards_MM32F003xx_q\CBF003TW_q_lib\UART\UART_TxRxDMApolling\IAR_PRJ\Debug\Obj
+[2] = command line
+[3] = dl6M_tlf.a
+[4] = rt6M_tl.a
+[5] = shb_l.a
+
+  3 474 bytes of readonly  code memory
+    140 bytes of readonly  data memory
+  1 196 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

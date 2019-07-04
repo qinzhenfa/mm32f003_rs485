@@ -1,0 +1,17 @@
+"--endian=little" 
+
+"--cpu=Cortex-M0" 
+
+"--fpu=None" 
+
+"-p" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\CONFIG\debugger\ARM\MPS2FVP.ddf" 
+
+"--semihosting" 
+
+"--device=MM32F003TW" 
+
+
+
+

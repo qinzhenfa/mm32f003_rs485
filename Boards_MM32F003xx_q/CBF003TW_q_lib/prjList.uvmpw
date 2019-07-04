@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\ADC\ADC_DMA\KEIL_PRJ\ADC_DMA.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\GPIO\GPIO_IN\KEIL_PRJ\GPIO_IN.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
+    <PathAndName>.\GPIO\GPIO_OUT\KEIL_PRJ\GPIO_OUT.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\I2C\I2C_POLL\KEIL_PRJ\I2C_POLL.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\IWDG\IWDG_RESET\KEIL_PRJ\IWDG_RESET.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\PWR\PWR_PVD\KEIL_PRJ\PWR_PVD.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\PWR\PWR_STANDBY\KEIL_PRJ\PWR_STANDBY.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\PWR\PWR_STOP\KEIL_PRJ\PWR_STOP.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\SPI\SPI_POLL\KEIL_PRJ\SPI_POLL.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\TIM\TIM_PWM\KEIL_PRJ\TIM_PWM.uvprojx</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\UART\UART_NVIC\KEIL_PRJ\UART_NVIC.uvprojx</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\UART\UART_POLL\KEIL_PRJ\UART_POLL.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>
